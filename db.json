@@ -1,0 +1,24 @@
+{
+ "products": [
+  {"id":1,"name":"Asian foreset tortoise","category":"Teal"},
+  {"id":2,"name":"Possum, western pygmy","category":"Fuscia"},
+  {"id":3,"name":"Oystercatcher, blackish","category":"Orange"},
+  {"id":4,"name":"Antelope, roan","category":"Turquoise"},
+  {"id":5,"name":"Honey badger","category":"Goldenrod"},
+  {"id":6,"name":"Lilac-breasted roller","category":"Indigo"},
+  {"id":7,"name":"Brown lemur","category":"Maroon"},
+  {"id":8,"name":"Genet, small-spotted","category":"Red"},
+  {"id":9,"name":"Carmine bee-eater","category":"Purple"},
+  {"id":10,"name":"Sacred ibis","category":"Indigo"},
+  {"id":11,"name":"Helmeted guinea fowl","category":"Puce"},
+  {"id":12,"name":"Grey heron","category":"Green"},
+  {"id":13,"name":"Cape cobra","category":"Violet"},
+  {"id":14,"name":"Marmot, yellow-bellied","category":"Maroon"},
+  {"id":15,"name":"Bustard, kori","category":"Aquamarine"},
+  {"id":16,"name":"Crocodile, nile","category":"Turquoise"},
+  {"id":17,"name":"Cat, miner's","category":"Blue"},
+  {"id":18,"name":"Killer whale","category":"Indigo"},
+  {"id":19,"name":"Deer, swamp","category":"Red"},
+  {"id":20,"name":"Asian water buffalo","category":"Indigo"}
+ ]
+}
